@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #F2F2F2;
+}
+
+header, footer {
+    padding: 10px 0;
+    text-align: center;
+    background-color: #F2F2F2;
+}
+
+/* Altera a cor de fundo do header */
+header.bg-light {
+    background-color: #F2F2F2 !important;
+}
+
+/* Altera a cor de fundo do footer */
+footer.bg-light {
+    background-color: #F2F2F2 !important;
+}
+
+
+main {
+    padding: 20px;
+}
+
+.logotipo {
+    max-width: 100%;
+    height: auto;
+    width: 250px;
+    height: 250px;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.bg-light {
+    background-color: #F2F2F2;
+}
+
+.footer-receitas {
+    background-color: #F2F2F2; /* Tomate */
+    padding: 20px;
+    text-align: center;
+}
